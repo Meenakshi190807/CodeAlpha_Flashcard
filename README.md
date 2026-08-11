@@ -1,5 +1,4 @@
 # CodeAlpha_Flashcard
-A simple and responsive flashcard quiz app for studying, with add, edit, delete, answer reveal, and card navigation features.
 FlashLearn — CodeAlpha Task 1
 A clean, responsive flashcard quiz app built with HTML, CSS and JavaScript.
 Features
